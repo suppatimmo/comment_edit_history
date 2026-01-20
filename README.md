@@ -44,6 +44,7 @@ Locales in the list are existing, but most of them might be incorrect due to tra
 | en     | Full support   |
 | lt     | Full support   |
 | de     | Full support   |
+| pl     | Full support   |
 | es     | Not supported  |
 | fr     | Not supported  |
 | it     | Not supported  |
