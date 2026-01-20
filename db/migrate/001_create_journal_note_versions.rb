@@ -1,4 +1,4 @@
-class CreateJournalNoteVersions < ActiveRecord::Migration[6.1]
+class CreateJournalNoteVersions < ActiveRecord::Migration[6.0]
   def change
     create_table :comment_edit_history_journal_note_versions do |t|
       t.integer :journal_id, null: false
