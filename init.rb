@@ -7,7 +7,7 @@ Redmine::Plugin.register :comment_edit_history do
   version '0.2.0'
   url 'https://github.com/jonasliu95/comment_edit_history'
   author_url 'https://github.com/jonasliu95'
-  requires_redmine version_or_higher: '6.0.0'
+  requires_redmine version_or_higher: '5.0.3'
 end
 
 require_dependency 'journal'
